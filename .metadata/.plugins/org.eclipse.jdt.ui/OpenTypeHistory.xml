@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=customerdal/C:\/Users\/richm\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.1.8.RELEASE\/spring-data-jpa-2.1.8.RELEASE.jar&lt;org.springframework.data.jpa.repository.support(CrudMethodMetadata.class[CrudMethodMetadata" modifiers="1537" timestamp="1559867304590"/>
+<typeInfo handle="=customerdal/C:\/Users\/richm\/.m2\/repository\/org\/springframework\/data\/spring-data-commons\/2.1.8.RELEASE\/spring-data-commons-2.1.8.RELEASE.jar&lt;org.springframework.data.repository(CrudRepository.class[CrudRepository" modifiers="1537" timestamp="1559867305690"/>
+<typeInfo handle="=locationweb/src\/main\/java&lt;com.mjnari.location.service{LocationService.java[LocationService" modifiers="513" timestamp="1560383683208"/>
+<typeInfo handle="=vendorweb/src\/main\/java&lt;com.mjnari.vendor.services{VendorService.java[VendorService" modifiers="513" timestamp="1560142121736"/>
+<typeInfo handle="=customerdal/C:\/Users\/richm\/.m2\/repository\/ch\/qos\/logback\/logback-core\/1.2.3\/logback-core-1.2.3.jar&lt;ch.qos.logback.core.rolling(RollingFileAppender.class[RollingFileAppender" modifiers="33" timestamp="1559867314607"/>
+<typeInfo handle="=customerdal/C:\/Users\/richm\/.m2\/repository\/ch\/qos\/logback\/logback-classic\/1.2.3\/logback-classic-1.2.3.jar&lt;ch.qos.logback.classic.encoder(PatternLayoutEncoder.class[PatternLayoutEncoder" modifiers="33" timestamp="1559867313513"/>
+<typeInfo handle="=customerdal/C:\/Users\/richm\/.m2\/repository\/ch\/qos\/logback\/logback-core\/1.2.3\/logback-core-1.2.3.jar&lt;ch.qos.logback.core.rolling(TimeBasedRollingPolicy.class[TimeBasedRollingPolicy" modifiers="33" timestamp="1559867314607"/>
+<typeInfo handle="=customerdal/C:\/Users\/richm\/.m2\/repository\/ch\/qos\/logback\/logback-core\/1.2.3\/logback-core-1.2.3.jar&lt;ch.qos.logback.core.rolling(SizeAndTimeBasedFNATP.class[SizeAndTimeBasedFNATP" modifiers="33" timestamp="1559867314607"/>
+<typeInfo handle="=vendorweb/C:\/Users\/richm\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.1.8.RELEASE\/spring-data-jpa-2.1.8.RELEASE.jar&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1559867304590"/>
+<typeInfo handle="=flightreservation/C:\/Users\/richm\/.m2\/repository\/org\/springframework\/security\/spring-security-core\/5.1.5.RELEASE\/spring-security-core-5.1.5.RELEASE.jar&lt;org.springframework.security.core.userdetails(UserDetails.class[UserDetails" modifiers="1537" timestamp="1561074733386"/>
+<typeInfo handle="=flightreservation/C:\/Users\/richm\/.m2\/repository\/org\/springframework\/security\/spring-security-core\/5.1.5.RELEASE\/spring-security-core-5.1.5.RELEASE.jar&lt;org.springframework.security.core.userdetails(UserDetailsService.class[UserDetailsService" modifiers="1537" timestamp="1561074733386"/>
+<typeInfo handle="=flightreservation/src\/main\/java&lt;com.mjnari.flightreservation.services{SecurityService.java[SecurityService" modifiers="513" timestamp="1561085796655"/>
+</typeInfoHistroy>

@@ -1,0 +1,11 @@
+package com.mjnari.flightreservation.services;
+
+public class SecurityServiceImpl implements SecurityService {
+
+	@Override
+	public boolean login(String username, String password) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

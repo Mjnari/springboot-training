@@ -1,0 +1,17 @@
+1560386492718	Copy compilation unit
+1560386528392	Copy compilation unit
+1560393679290	Move file
+1560393755871	Move file
+1560393945112	Rename resource 'jsps'
+1560498767803	Encapsulate field 'departureDate'
+1560499388272	Move file
+1560499390309	Move file
+1560499438475	Move file
+1560499447832	Move file
+1560499498803	Move file
+1560499500793	Move file
+1560499536978	Move file
+1560499538955	Move file
+1560501619336	Rename field 'arrivalCitry'
+1560628750632	Inline local variable 'reservation'
+1560629039166	Inline local variable 'updatedReservation'

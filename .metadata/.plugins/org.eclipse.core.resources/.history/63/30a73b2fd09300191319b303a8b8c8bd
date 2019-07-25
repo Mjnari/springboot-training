@@ -1,0 +1,5 @@
+package com.mjnari.flightreservation.services;
+
+public interface SecurityService {
+
+}

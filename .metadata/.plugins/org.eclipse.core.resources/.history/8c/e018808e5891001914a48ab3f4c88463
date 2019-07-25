@@ -1,0 +1,5 @@
+package com.mjnari.flightcheckin.controllers;
+
+public class CheckInController {
+
+}

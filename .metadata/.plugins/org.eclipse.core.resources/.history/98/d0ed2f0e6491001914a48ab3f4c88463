@@ -1,0 +1,15 @@
+package com.mjnari.flightreservation.util;
+
+import org.springframework.stereotype.Component;
+
+import com.mjnari.flightreservation.models.Reservation;
+import com.itextpdf.text.Document;
+
+@Component
+public class PDGFGenerator {
+
+	public void generateItinerary(Reservation reservation, String filePath) {
+		Document document = new Document();
+	}
+	
+}

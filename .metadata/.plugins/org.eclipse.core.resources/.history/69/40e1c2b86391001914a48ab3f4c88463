@@ -1,0 +1,5 @@
+package com.mjnari.flightreservation.util;
+
+public class PDGFGenerator {
+
+}

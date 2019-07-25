@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="locationweb"/>
+<aop-project name="demo"/>
+<aop-project name="springbootweb"/>
+<aop-project name="flightcheckin"/>
+<aop-project name="springdatajpa"/>
+<aop-project name="studentdal"/>
+<aop-project name="customerdal"/>
+<aop-project name="flightreservation"/>
+<aop-project name="vendorweb"/>
+</aop-reference-model>

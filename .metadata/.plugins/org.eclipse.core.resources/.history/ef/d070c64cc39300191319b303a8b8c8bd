@@ -1,0 +1,7 @@
+package com.mjnari.flightreservation.repos;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public class RoleRepository implements JpaRepository<T, ID> {
+
+}
